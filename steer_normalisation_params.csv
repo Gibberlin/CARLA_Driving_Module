@@ -1,0 +1,15 @@
+feature,mean,std
+speed_kmh,25.822304,12.287946
+forward_speed_mps,7.172863,3.4133184
+heading_deg,-0.25085625,1.3949674
+yaw_rate_rad_s,4.167326e-06,0.07173009
+forward_acceleration_mps2,0.0103305355,1.5073514
+lateral_acceleration_mps2,0.0046036523,0.69338137
+curvature_m_inv,-0.00014231885,0.008731071
+persons_detected,0.0,1.0
+bicycles_detected,0.0,1.0
+cars_detected,0.0,1.0
+trucks_detected,0.0,1.0
+buses_detected,0.0,1.0
+traffic_lights_detected,0.0,1.0
+total_detections,0.0,1.0
